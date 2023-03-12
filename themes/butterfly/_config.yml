@@ -292,7 +292,7 @@ livere:
 gitalk:
   client_id: 530d1c695b6a4630651c
   client_secret: 137062dd1c02bbd2267fabfb1c46f3269c5aa083
-  repo: https://github.com/ssrskl/hexo-comment
+  repo: hexo-comment
   owner: ssrskl
   admin: ssrskl
   option:
