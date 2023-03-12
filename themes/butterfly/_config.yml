@@ -590,8 +590,8 @@ display_mode: light
 
 # Beautify (美化頁面顯示)
 beautify:
-  enable: false
-  field: post # site/post
+  enable: true
+  field: site # site/post
   title-prefix-icon: # '\f0c1'
   title-prefix-icon-color: # '#F47466'
 
@@ -601,7 +601,7 @@ font:
   global-font-size:
   code-font-size:
   font-family:
-  code-font-family:
+  code-font-family: Monaco
 
 # Font settings for the site title and site subtitle
 # 左上角網站名字 主頁居中網站名字
@@ -617,7 +617,7 @@ hr_icon:
 
 # the subtitle on homepage (主頁subtitle)
 subtitle:
-  enable: false
+  enable: true
   # Typewriter Effect (打字效果)
   effect: true
   # Effect Speed Options (打字效果速度參數)
@@ -632,7 +632,7 @@ subtitle:
   # source: 2  調用一句網（簡體） http://yijuzhan.com/
   # source: 3  調用今日詩詞（簡體） https://www.jinrishici.com/
   # subtitle 會先顯示 source , 再顯示 sub 的內容
-  source: false
+  source: 3
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
 
