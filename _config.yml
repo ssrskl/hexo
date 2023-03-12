@@ -79,3 +79,10 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+# 搜索配置
+search:
+  path: search.xml
+  field: post
+  content: true
+  template: ./search.xml
