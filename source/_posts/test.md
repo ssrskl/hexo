@@ -10,3 +10,5 @@ tags:
 # 测试
 ## 测试二
 ### 测试三
+<!-- markdown图片 -->
+![](https://maomaoio.oss-cn-beijing.aliyuncs.com/MaoyanAvatar2.jpg)
