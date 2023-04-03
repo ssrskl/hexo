@@ -1,7 +1,7 @@
 ---
 title: test-gallery
 date: 2023-03-12 14:47:57
-tags:
+tags: [gallery]
 ---
 {% gallery %}
 ![](https://i.loli.net/2019/12/25/Fze9jchtnyJXMHN.jpg)
